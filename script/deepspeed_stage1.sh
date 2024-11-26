@@ -1,7 +1,7 @@
 # #!/bin/bash
 # export CUDA_VISIBLE_DEVICES=4,5,6,7
 deepspeed --include=localhost:0,1,2,3,4,5,6,7 --master_port=29501 path/deepspeed_train.py \
-    --deepspeed path/scripts/zero2.json \
+    --deepspeed ./scripts/zero2.json \
     --useLorafinetune False \
     --model_name_or_path /path/Vicuna-7b-v1.5 \
     --version plain \

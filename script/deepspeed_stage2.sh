@@ -1,7 +1,7 @@
 #!/bin/bash
 #export CUDA_VISIBLE_DEVICES=4,5,6,7
 deepspeed --include=localhost:0,1,2,3,4,5,6,7 --master_port=29503 path/deepspeed_train.py \
-    --deepspeed path/scripts/zero3.json \
+    --deepspeed ./scripts/zero3.json \
     --useLora False \
     --pretrain_mm_mlp_adapter path/mm_projector.bin \
     --model_name_or_path path/Vicuna-7b-v1.5 \
@@ -9,7 +9,6 @@ deepspeed --include=localhost:0,1,2,3,4,5,6,7 --master_port=29503 path/deepspeed
     --version plain \
     --use_feature_adaptor True \
     --data_path  path/feature_adaptor.json \
-    --image_folder path/images \
     --event_folder path/instruct/event \
     --vision_tower path/clip-vit-large-patch14-336 \
     --mm_projector_type mlp2x_gelu \
