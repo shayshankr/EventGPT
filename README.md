@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.png" alt="logo" width="15%">
+  <img src="assets/logo.png" alt="logo" width="20%">
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 **EventGPT** is an innovative multimodal large language model that integrates event streams and text, founded on spatio-temporal representations and advanced language modeling methodologies.
 
-
+<div align="center">
 
 **[📰 Project Page](https://xdusyl.github.io/eventgpt.github.io/)**&nbsp;&nbsp;&nbsp;&nbsp;**[📑arXiv Paper](https://arxiv.org/abs/2412.00832)**
 
@@ -24,7 +24,7 @@
 
 <p align="center">
 <a href="https://youtu.be/4fIZwTb0oYk?si=BuOMzhMESpEdhz1e">
-  <img src="assets/page.png" alt="EventGPT" width="500"/>
+  <img src="assets/page.png" alt="EventGPT" width="800"/>
 </a>
 </p>
 
