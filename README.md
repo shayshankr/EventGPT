@@ -16,17 +16,14 @@
 
 **EventGPT** is an innovative multimodal large language model that integrates event streams and text, founded on spatio-temporal representations and advanced language modeling methodologies.
 
-</div>
+
 
 **[📰 Project Page](https://xdusyl.github.io/eventgpt.github.io/)**&nbsp;&nbsp;&nbsp;&nbsp;**[📑arXiv Paper](https://arxiv.org/abs/2412.00832)**
 
 </div>
 
-<div align="center">
-  <img src="assets/overview.png" width="90%">
-</div>
+[![](https://img.youtube.com/vi/4fIZwTb0oYk/0.jpg](https://youtu.be/4fIZwTb0oYk)
 
-<div align="center">
 </div>
 
 The **EventGPT** model, along with the **N-ImageNet-Chat** and **Event-Chat** datasets, will be released after the acceptance of our paper.
