@@ -1,5 +1,5 @@
 <div align="center">
-<img src="/Users/mowen/Code/EventGPT/EventGPT_Webpage/assets/logo.png" alt="logo" style="zoom:30%;" />
+<img src="assets/logo.png" alt="logo" style="zoom:30%;" />
 
 # EventGPT: Event Stream Understanding with Multimodal Large Language Models
 
@@ -9,9 +9,11 @@
 <sup>1</sup>Xidian University, <sup>2</sup>Tsinghua University, <sup>3</sup>UCAS, <sup>4</sup>Peking University  
 <sup>5</sup>Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)
 
-
+</div>
 
 **EventGPT** is an innovative multimodal large language model that integrates event streams and text, founded on spatio-temporal representations and advanced language modeling methodologies.
+
+</div>
 
 **[📰 Project Page](https://xdusyl.github.io/eventgpt.github.io/)**&nbsp;&nbsp;&nbsp;&nbsp;**[📑arXiv Paper](https://arxiv.org/abs/2412.00832)**
 
