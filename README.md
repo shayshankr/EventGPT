@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.png" alt="logo" width="30%">
+  <img src="assets/logo.png" alt="logo" width="15%">
 </div>
 
 <div align="center">
@@ -22,7 +22,11 @@
 
 </div>
 
-[![](https://img.youtube.com/vi/4fIZwTb0oYk/0.jpg](https://youtu.be/4fIZwTb0oYk?si=BuOMzhMESpEdhz1e)
+<p align="center">
+<a href="https://youtu.be/4fIZwTb0oYk?si=BuOMzhMESpEdhz1e">
+  <img src="assets/page.png" alt="EventGPT" width="500"/>
+</a>
+</p>
 
 </div>
 
