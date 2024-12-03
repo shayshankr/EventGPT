@@ -22,7 +22,7 @@
 
 </div>
 
-[![](https://img.youtube.com/vi/4fIZwTb0oYk/0.jpg](https://youtu.be/4fIZwTb0oYk)
+[![](https://img.youtube.com/vi/4fIZwTb0oYk/0.jpg](https://youtu.be/4fIZwTb0oYk?si=BuOMzhMESpEdhz1e)
 
 </div>
 
