@@ -5,13 +5,15 @@
 </div>
 
 
+<div style="text-align: center;">
+
 The **EventGPT** model, along with the **N-ImageNet-Chat** and **Event-Chat** datasets, will be released after the acceptance of our paper.
 
 <!-- **Authors:** -->
 
-<sup>1</sup>Shaoyu Liu, <sup>2</sup>Jianing Li, <sup>1</sup> Guanghui Zhao, <sup>3</sup> Yunjian Zhang,
+<sup>1</sup>[Shaoyu Liu](), <sup>2</sup>[Jianing Li](), <sup>1</sup> [Guanghui Zhao](), <sup>3</sup> [Yunjian Zhang](),
 
-<sup>4</sup>Xin Meng],  <sup>5</sup>Fei Richard Yu, <sup>2</sup>Xiangyang Ji, <sup>5</sup>Ming Li
+<sup>4</sup>[Xin Meng](), <sup>5</sup>[Fei Richard Yu](), <sup>2</sup>[Xiangyang Ji](), <sup>5</sup>[Ming Li]()
 
 
 
@@ -23,4 +25,6 @@ The **EventGPT** model, along with the **N-ImageNet-Chat** and **Event-Chat** da
 
 
 
-**[📰 Project Page](https://xdusyl.github.io/eventgpt.github.io/)**  **[📑arXiv Paper](https://arxiv.org/abs/2412.00832)**
+**[📰 Project Page](https://xdusyl.github.io/eventgpt.github.io/)** **[📑arXiv Paper](https://arxiv.org/abs/2412.00832)**
+
+</div>
