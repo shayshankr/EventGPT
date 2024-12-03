@@ -1,5 +1,8 @@
 <div align="center">
-<img src="assets/logo.png" alt="logo" style="zoom:30%;" />
+  <img src="assets/logo.png" alt="logo" width="30%">
+</div>
+
+<div align="center">
 
 # EventGPT: Event Stream Understanding with Multimodal Large Language Models
 
