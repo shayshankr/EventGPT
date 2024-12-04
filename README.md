@@ -14,7 +14,7 @@
 
 </div>
 
-**EventGPT** is an innovative multimodal large language model that integrates event streams and text, founded on spatio-temporal representations and advanced language modeling methodologies.
+**EventGPT** is an innovative multimodal large language model(MLLM) that integrates event streams and text, founded on spatio-temporal representations and advanced language modeling methodologies.
 
 
 
