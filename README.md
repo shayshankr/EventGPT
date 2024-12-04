@@ -16,8 +16,6 @@
 
 **EventGPT** is an innovative multimodal large language model(MLLM) that integrates event streams and text, founded on spatio-temporal representations and advanced language modeling methodologies.
 
-
-
 <div align="center">
 
 **[📰 Project Page](https://xdusyl.github.io/eventgpt.github.io/)**&nbsp;&nbsp;&nbsp;&nbsp;**[📑arXiv Paper](https://arxiv.org/abs/2412.00832)**
