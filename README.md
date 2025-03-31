@@ -90,7 +90,6 @@ Please download the samples from `./samples`.
 </div>
 
 ```
-Question: 
 Q1: Describe in detail what happened in the scene. 
 A1:The scene depicts a person holding a large fish in a body of water. The individual is wearing a cap and a jacket, and the fish has a long, slender body with a prominent dorsal fin and tail. The background shows a natural environment with trees and grassy areas.
 
@@ -108,7 +107,6 @@ A3:The person in the scene is standing near a body of water, holding a large fis
 </div>
 
 ```
-Question: 
 Q1: What activities are occurring in this scene?
 A1: The scene depicts a pedestrian walking on the sidewalk, carrying shopping bags. A cyclist is riding on the right side of the street, and a car is stationary or moving slowly in the middle of the street. The overall activity suggests a typical urban street environment.
 
@@ -120,21 +118,20 @@ A2: The individual is using a bicycle as their mode of transportation.
 
 Our EventGPT focuses on the understanding of high-speed scenes within **50ms**. We provide the following samples showing the playback process in slow motion.
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="assets/gota_slomo.gif" alt="gota_slomo" style="width: 250px; height: auto;">
-  <img src="assets/gota_dvs.gif" alt="gota_dvs" style="width: 250px; height: auto;">
-  <img src="assets/dadao_slomo.gif" alt="dadao_slomo" style="width: 250px; height: auto;">
-  <img src="assets/dadao_dvs.gif" alt="dadao_dvs" style="width: 250px; height: auto;">
+<div style="display: flex; justify-content: center; white-space: nowrap; overflow-x: auto;">
+    <img src="assets/gota_slomo.gif" alt="gota_slomo" style="width: 200px; height: auto;">
+    <img src="assets/gota_dvs.gif" alt="gota_dvs" style="width: 200px; height: auto;">
+    <img src="assets/dadao_slomo.gif" alt="dadao_slomo" style="width: 200px; height: auto;">
+    <img src="assets/dadao_dvs.gif" alt="dadao_dvs" style="width: 200px; height: auto;">
 </div>
 
-
-**Sampe1:**
+**Sample1:**
 
 <div align="center">
   <img src="assets/show_samples_3.png" alt="logo" width="85%">
 </div>
+
 ```
-Question: 
 Q1: Describe in detail what happened in the scene.
 A1: The scene depicts a dropper releasing a single liquid drop against a dark background. The droplet forms and drops downward, leaving a faint trail behind it.
 
@@ -145,13 +142,13 @@ Q3: Would the droplet remain suspended in the air after falling?
 A3: Yes, the droplet would remain suspended in the air after falling.
 ```
 
-**Samples2:**
+**Sample2:**
 
 <div align="center">
   <img src="assets/show_samples_4.png" alt="logo" width="85%">
 </div>
+
 ```
-Question: 
 Q1: Describe in detail what happened in the scene.
 A1: The scene depicts a die spinning rapidly in a precise clockwise direction while balanced on one of its corners. The angular momentum of the die is maintained through persistent angular momentum transfer, allowing it to maintain this unusual spinning position.
 
@@ -194,7 +191,7 @@ python ./inference.py \
 
 •	**[2025-03-31]**  🚀 EventGPT **[inference model](https://drive.google.com/drive/folders/1FgA0a0HQ6AnF6gq_97Z0iPJXRUUup_vn?usp=drive_link)** and sample data are now publicly available!  🔥
 
-•	**[2025-02-27]** 🎉 Our EventGPT paper has been accepted at **CVPR 2025**!  📄🚀
+•	**[2024-02-27]** 🎉 Our EventGPT paper has been accepted at **CVPR 2025**!  📄🚀
 
 •	**[2024-12-03]** 🎥 The [video demo](https://www.youtube.com/watch?v=4fIZwTb0oYk) of EventGPT is live! See it in action!
 
