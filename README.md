@@ -7,7 +7,7 @@
 # EventGPT: Event Stream Understanding with Multimodal Large Language Models
 
 **<sup>1, 2</sup>[Shaoyu Liu](), <sup>2</sup>[Jianing Li](), <sup>1, *</sup>[Guanghui Zhao](), <sup>2</sup>[Yunjian Zhang](),  
-<sup>3</sup>[Xin Meng](), <sup>4</sup>[Fei Richard Yu](), <sup>2, *</sup>[Xiangyang Ji]()  & <sup>4, *</sup>[Ming Li]()**
+<sup>3</sup>[Xin Meng](), <sup>4</sup>[Fei Richard Yu](), <sup>2, *</sup>[Xiangyang Ji]() & <sup>4, *</sup>[Ming Li]()**
 
 <sup>1</sup>Xidian University, <sup>2</sup>Tsinghua University, <sup>3</sup>Peking University  
 <sup>4</sup>Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)
