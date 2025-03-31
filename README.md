@@ -167,6 +167,14 @@ Please download our **EventGPT** inference model from **[inference model](https:
 
 Place the model in the `./checkpoints` directory.
 
+**Note！**Then, please modify the `"mm_visual_tower"` field in the model’s config file to the path of the CLIP model you downloaded. The [CLIP](https://huggingface.co/openai/clip-vit-large-patch14-336) model can be downloaded from Hugging Face.
+
+```
+"mm_visual_tower"："your CLIP Model"
+```
+
+Run the inference script:
+
 ```
 sh ./script/EventGPT_inference.sh
 ```
