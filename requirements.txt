@@ -28,7 +28,7 @@ exceptiongroup==1.2.2
 fastapi==0.115.0
 ffmpy==0.4.0
 filelock==3.16.1
-flash-attn @ file:///data/SyL/LLaVA/flash_attn-2.6.3%2Bcu118torch2.1cxx11abiFALSE-cp310-cp310-linux_x86_64.whl#sha256=d16f6008f2b7727718653bfd087a20f3e18e2a4c8e91b9f38da2439f3b0bf529
+flash-attn 
 fonttools==4.54.1
 frozenlist==1.4.1
 fsspec==2024.6.1
