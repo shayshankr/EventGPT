@@ -159,14 +159,17 @@ Q3: How is the die rotating?
 A3: The die is rotating rapidly in a precise clockwise direction, creating a visible blurred circular pattern around its center.
 ```
 
-
-
-## 🔨Usage
-
+## 👉Model & Datasets
 Please download our **EventGPT** inference model from **[inference model](https://drive.google.com/drive/folders/1FgA0a0HQ6AnF6gq_97Z0iPJXRUUup_vn?usp=drive_link)** .
 
 Place the model in the `./checkpoints` directory.
 
+We have also released a **subset** of our **[EventGPT dataset](https://huggingface.co/datasets/XduSyL/EventGPT-datasets/tree/main)** on Hugging Face:
+
+Place the dataset in the `./data` directory. EventGPT Dataset Subset in Hugging Face
+
+
+## 🔨Usage
 Note！Then, please modify the `"mm_visual_tower"` field in the model’s config file to the path of the CLIP model you downloaded. The [CLIP](https://huggingface.co/openai/clip-vit-large-patch14-336) model can be downloaded from Hugging Face.
 
 ```
@@ -196,8 +199,9 @@ python ./inference.py \
 
 
 ## 🔥 News
+• **[2025-06-24]** 📂 We have released a **subset** of the **[EventGPT dataset](https://huggingface.co/datasets/XduSyL/EventGPT-datasets/tree/main)** on Hugging Face! 🔥🔥🔥
 
-•	**[2025-03-31]**  🚀 EventGPT **[inference model](https://drive.google.com/drive/folders/1FgA0a0HQ6AnF6gq_97Z0iPJXRUUup_vn?usp=drive_link)** and sample data are now publicly available!  🔥
+•	**[2025-03-31]**  🚀 EventGPT **[model](https://drive.google.com/drive/folders/1FgA0a0HQ6AnF6gq_97Z0iPJXRUUup_vn?usp=drive_link)** and sample data are now publicly available!  🔥
 
 •	**[2024-02-27]** 🎉 Our EventGPT paper has been accepted at **CVPR 2025**!  📄🚀
 
